@@ -177,7 +177,7 @@ public class Simulator
     }
     
     public static void main(String args[]) {
-    	Simulator S = new Simulator();
+    	Simulator S = new Simulator(); // create new object
     	S.runLongSimulation();		//run the project
     }
 }
