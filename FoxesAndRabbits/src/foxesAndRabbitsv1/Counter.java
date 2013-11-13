@@ -8,6 +8,8 @@ import java.awt.Color;
  * many participants of this type currently exist within 
  * the simulation.
  * 
+ * CHRISTOPHER CROUCH
+ * 
  * @author David J. Barnes and Michael Kolling
  * @version 2002.04.23
  */
