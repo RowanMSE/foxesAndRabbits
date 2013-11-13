@@ -175,5 +175,10 @@ public class Simulator
         }
         Collections.shuffle(animals);
     }
+    
+    public static void main(String args[]) {
+    	Simulator S = new Simulator();
+    	S.runLongSimulation();		//run the project
+    }
 }
 
