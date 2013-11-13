@@ -12,6 +12,7 @@ import java.awt.Color;
  * @version 2002.04.23
  */
 //change he
+//change again
 public class Counter
 {
     // A name for this type of simulation participant
