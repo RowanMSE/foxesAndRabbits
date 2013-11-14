@@ -11,6 +11,8 @@ import java.awt.Color;
  * A simple predator-prey simulator, based on a field containing
  * rabbits and foxes.
  * 
+ * 
+ * Ryan was here
  * @author David J. Barnes and Michael Kolling
  * @version 2002.10.28
  */
