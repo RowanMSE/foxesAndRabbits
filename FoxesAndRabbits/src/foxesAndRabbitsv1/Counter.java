@@ -17,7 +17,7 @@ import java.awt.Color;
  * @version 2002.04.23
  */
 
-//test for commit
+//text text
 
 public class Counter
 {
