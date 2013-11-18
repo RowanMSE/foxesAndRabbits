@@ -17,6 +17,8 @@ import java.awt.Color;
  * @version 2002.04.23
  */
 
+//test for commit
+
 public class Counter
 {
     // A name for this type of simulation participant
