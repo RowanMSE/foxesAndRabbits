@@ -12,6 +12,8 @@ import java.awt.Color;
  * rabbits and foxes.
  * Chris
  * 
+ * Changes are being made!
+ * 
  * Ryan was here
  * @author David J. Barnes and Michael Kolling
  * @version 2002.10.28
