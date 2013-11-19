@@ -13,6 +13,8 @@ import java.awt.Color;
  * 
  * This is a branch!!!
  * 
+ * I am making a branch to change the Counter
+ * 
  * @author David J. Barnes and Michael Kolling
  * @version 2002.04.23
  */
