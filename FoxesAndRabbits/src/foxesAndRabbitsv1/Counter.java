@@ -9,7 +9,7 @@ import java.awt.Color;
  * the simulation.
  * 
  * CHRISTOPHER CROUCH
- * Jun He
+ * Jun He  I made a change to counter for u
  * 
  * This is a branch!!!
  * 
