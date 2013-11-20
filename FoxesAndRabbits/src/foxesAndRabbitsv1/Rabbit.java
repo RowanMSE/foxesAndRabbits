@@ -15,7 +15,7 @@ public class Rabbit
     // Characteristics shared by all rabbits (static fields).
 
     // The age at which a rabbit can start to breed.
-    private static final int BREEDING_AGE = 5;
+    private static final int BREEDING_AGE = 4;
     // The age to which a rabbit can live.
     private static final int MAX_AGE = 53;
     // The likelihood of a rabbit breeding.
