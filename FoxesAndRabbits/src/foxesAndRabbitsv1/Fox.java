@@ -19,7 +19,7 @@ public class Fox
     // Characteristics shared by all foxes (static fields).
     
     // The age at which a fox can start to breed.
-    private static final int BREEDING_AGE = 9;
+    private static final int BREEDING_AGE = 12;
     // The age to which a fox can live.
     private static final int MAX_AGE = 141;
     // The likelihood of a fox breeding.
