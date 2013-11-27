@@ -10,8 +10,6 @@ import java.awt.Color;
  * new branch comments!
  * CHRISTOPHER CROUCH
  * Jun He  I made a change to counter for u
- * change
- * change change again
  * This is a branch!!!
  * 
  * I am making a branch to change the Counter
