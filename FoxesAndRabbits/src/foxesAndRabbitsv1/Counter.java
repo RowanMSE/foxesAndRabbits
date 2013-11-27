@@ -7,7 +7,7 @@ import java.awt.Color;
  * This includes an identifying string and a count of how
  * many participants of this type currently exist within 
  * the simulation.
- * 
+ * new branch comments!
  * CHRISTOPHER CROUCH
  * Jun He  I made a change to counter for u
  * change
